@@ -18,8 +18,8 @@ Here are described "Sbling Technologies" conventional commits:
 
 ### Usage:
 
-<type>(optionalFile/Component): <description>
+\<type\>(optionalFile/Component): \<description\>
 
 ### Resolving an open issue:
 
-fix #<issueTag>: <description>
+fix #\<issueTag\>: \<description\>
